@@ -1,0 +1,93 @@
+
+
+h1{
+    color: #8fbc8f;
+    font-family: cursive;
+
+}
+
+h2, h3{
+    color: #8fbc8f;
+    font-family: cursive;
+
+}
+
+h1, .About, #contact{
+    background-color: #add8e6;
+}
+
+.About, .Afang, .egusi, .Jollof, .Okra{
+    background-color: #778899;
+}
+
+ol {
+    list-style-position: inside;
+    text-align: center;
+  }
+  
+img{
+    width: 200px;
+    height: 200px;
+}
+
+
+.About{
+    border: 4rem;
+    padding: 3rem;
+    margin: 2rem 8rem 2rem  8rem;
+    text-align: center;
+    display: inline-block;
+}
+
+.Jollof{
+    border: 4rem;
+    padding: 3rem;
+    margin: 2rem 8rem 2rem  8rem;
+    text-align: center;
+}
+
+.egusi{
+    border: 4rem;
+    padding: 3rem;
+    margin: 2rem 8rem 2rem  8rem;
+    text-align: center;
+}
+
+.Afang{
+    border: 4rem;
+    padding: 3rem;
+    margin: 2rem 8rem 2rem  8rem;
+    text-align: center;
+}
+
+.Okra{
+    border: 4rem;
+    padding: 3rem;
+    margin: 2rem 8rem 2rem  8rem;
+    text-align: center;
+}
+
+form{
+    border: 4rem;
+    padding: 3rem;
+    margin: 2rem 8rem 2rem  8rem;
+    text-align: center;
+    background-color: #ffa07a;
+}
+
+#contact{
+    border: 4rem;
+    padding: 3rem;
+    margin: 2rem 8rem 2rem  8rem;
+    text-align: center;
+}
+
+button:hover{ color: #bdb76b;
+}
+
+button{
+    color: #ffa07a;
+    background-color: black;
+    cursor: pointer;
+}
+
